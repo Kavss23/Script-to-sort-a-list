@@ -1,0 +1,3 @@
+student=['Kavya','Amisha','Alankrita']
+student.sort()
+print(student)
